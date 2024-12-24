@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/10 10:07:30.000.845,=C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/10 10:18:22.000.943,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitPrincipal.pas=C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/10 10:18:22.000.943,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitPrincipal.dfm=C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/07/10 10:18:30.000.142,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Clinica.dproj=C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/10 10:47:23.000.980,=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 10:47:57.000.024,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitCadPaciente.pas=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 10:47:57.000.024,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitCadPaciente.dfm=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.dfm</Transaction>
+    <Transaction>2024/07/10 10:48:15.000.457,=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit3.pas</Transaction>
+    <Transaction>2024/07/10 10:48:33.000.502,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitCadAgendamentos.pas=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit3.pas</Transaction>
+    <Transaction>2024/07/10 10:48:33.000.502,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitCadAgendamentos.dfm=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit3.dfm</Transaction>
+    <Transaction>2024/07/10 11:07:23.000.679,=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 11:14:37.000.913,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitDM.pas=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 11:14:37.000.913,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\unitDM.dfm=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Sistema clinica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
